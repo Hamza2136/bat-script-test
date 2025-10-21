@@ -1,8 +1,5 @@
 Hello this is readme.txt for other branch commit testing.
 Other Branch.
 second time.
-<<<<<<< HEAD
-again on main.
-=======
 haha other this time.
->>>>>>> otherBranch
+haha this is other time to commit other one.
