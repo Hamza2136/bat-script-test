@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hello This is Code.txt for other branch other commit testing second time.
 other branch second time.
+=======
+Hello This is Code.txt for other branch commit testing.
+Other Branch.
+second time.
+>>>>>>> otherBranch
