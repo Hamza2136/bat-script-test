@@ -1,1 +1,1 @@
-Hello this is readme.txt for main branch commit testing.
+Hello this is readme.txt for other branch commit testing.
